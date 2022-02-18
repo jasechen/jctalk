@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+first-deploy.sh
+deploy.sh

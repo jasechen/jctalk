@@ -1,0 +1,5 @@
+baseURL = 'http://jasechen.github.io/'
+languageCode = 'zh-tw'
+title = 'jctalk.today'
+
+theme = 'tale'
